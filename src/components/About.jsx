@@ -260,7 +260,7 @@ const About = () => {
                       {/* Circle Image Placeholder */}
                       <div className="flex-shrink-0 Z-50 overflow-hidden">
                         <div className="exp-dot w-16 h-16 rounded-full bg-gradient-to-br from-blue-500 to-purple-600 flex items-center justify-center border-3 overflow-hidden border-white">
-                          <img src="/images/zoho-logo.png" alt="Experience" className="w-full h-full object-contain " />
+                          <img src="./dist/images/zoho-logo.png" alt="Experience" className="w-full h-full object-contain" />
                         </div>
                       </div>
                       
